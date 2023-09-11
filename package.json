@@ -1,0 +1,39 @@
+{
+  "name": "nodejs-crud-api",
+  "version": "1.0.0",
+  "description": "Node.js, Express and MongodB: Create a Restfull API with images upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "nodejs express",
+    "express mongodb",
+    "crud express mongodb",
+    "Grwthx backend logic",
+    "rest api, Thirty party api",
+    "KayaIchizo",
+    "Didier senou"
+  ],
+  "author": "KayaIchizo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^6.12.0",
+    "https": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.0",
+    "multer": "^1.4.2",
+    "openai": "^3.2.1",
+    "socket.io": "^4.6.1"
+  }
+}
